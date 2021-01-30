@@ -7,3 +7,5 @@ them into a single database table.
 
 The program must log the amount of time it takes to read the files in each directory 
 and the time it takes to write the files to a file using the logger.
+
+This is a new line
