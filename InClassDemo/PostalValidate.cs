@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using System.Text.RegularExpressions;
 
-namespace CustomerPortal
+namespace InClassDemo
 {
     class PostalValidate : ValidationAttribute
     {
