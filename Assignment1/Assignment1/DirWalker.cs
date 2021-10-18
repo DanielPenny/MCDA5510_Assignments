@@ -17,7 +17,6 @@ namespace Assignment1
             if (list == null) return;
 
             foreach (string dirpath in list)
-               // foreach (String f : list)
             {
                 if (Directory.Exists(dirpath))
                 {
