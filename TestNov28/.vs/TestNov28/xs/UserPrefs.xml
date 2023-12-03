@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{3FE496BD-73D1-4480-A098-B343C28B5906}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestNov28/Program.cs">
+    <Files>
+      <File FileName="TestNov28/Models/Customer.cs" />
+      <File FileName="TestNov28/Models/CustomerContext.cs" />
+      <File FileName="TestNov28/Models/CustomerController.cs" />
+      <File FileName="TestNov28/Views/Customer/Create.cshtml" />
+      <File FileName="TestNov28/Program.cs" Line="1" Column="1" />
+      <File FileName="TestNov28/Startup.cs" />
+      <File FileName="TestNov28/appsettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestNov28" expanded="True">
+            <Node name="TestNov28" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TestNov28 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/danpenny/Projects/TestNov28/TestNov28/Startup.cs" relfile="TestNov28/Startup.cs" line="29" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
