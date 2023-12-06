@@ -31,7 +31,7 @@ namespace InClassDemo.Models
         public string Country { get; set; }
 
         [Required]
-      //  [PostalValidate]
+        [PostalValidate]
         public string Postal { get; set; }
         public string Phone { get; set; }
 
